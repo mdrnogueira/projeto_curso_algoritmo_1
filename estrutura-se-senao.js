@@ -1,25 +1,3 @@
-/*
-
-   
-   se operacao = "+" entao
-      resultado := valor1 + valor2
-   senão
-        se operacao = "-" entao
-           resultado := valor1 - valor2
-        senão
-             se operacao = "*" entao
-                resultado := valor1 * valor2
-             senão
-                se operacao = "/" entao
-                   resultado := valor1 / valor2
-                fimse
-             fimse
-        fimse
-   fimse
-   escreva("Resultado do calculo é: ", resultado)
-
-*/
-
 
 
 function acaoBotao() {
